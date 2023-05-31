@@ -9,3 +9,7 @@ function galeria() {
 function elementos() {
     window.location.href='#elementosSection'
 }
+
+function faq() {
+    window.location.href='#faqSection'
+}
