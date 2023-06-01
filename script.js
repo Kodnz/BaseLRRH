@@ -13,3 +13,7 @@ function elementos() {
 function faq() {
     window.location.href='#faqSection'
 }
+
+function download() {
+    window.location.href='#downloadSection'
+}

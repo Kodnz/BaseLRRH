@@ -168,10 +168,21 @@
     text-align: center;
     padding-top: 7vh;
   }
+
+  #downloadSection {
+    text-align: center;
+    padding-top: 7vh;
+  }
+
+  #downloadLink {
+    color: #FF0000;
+    text-decoration: underline #FF0000;
+  }
   
   .itensElementos {
     padding-bottom: 12px;
   }
+  
   
   footer {
     display: flex;
